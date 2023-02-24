@@ -20,3 +20,9 @@
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
+
+/graphics/*
+    Content-Type: image/png
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *

@@ -4,4 +4,5 @@
 /hkamran/sitemap                            /hkamran-sitemap.xml                    200
 /changelog/nebula-new-tab                   /nebula-changelog.json                  200
 /schemas/userscripts                        /userscripts.schema.json                200
+/graphics/article/*                         /article-graphics/:splat.png            200
 /*                                          /error.json                             404
