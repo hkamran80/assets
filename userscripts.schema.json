@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.hkamran.com/schema/userscripts",
+    "title": "Userscripts",
+    "description": "The data source for userscripts",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "The name of the userscript"
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the userscript"
+            },
+            "installUrl": {
+                "type": "string",
+                "description": "The URL to install the userscript from"
+            },
+            "sourceUrl": {
+                "type": "string",
+                "description": "The URL that the source of the userscript can be found at"
+            }
+        },
+        "required": ["name", "description", "installUrl"]
+    },
+    "uniqueItems": true
+}

@@ -1,0 +1,7 @@
+/styling/markdown                           /markdown-styling.css                   200
+/hkamran/creations                          /creations.json                         200
+/hkamran/userscripts                        /userscripts.json                       200
+/hkamran/sitemap                            /hkamran-sitemap.xml                    200
+/changelog/nebula-new-tab                   /nebula-changelog.json                  200
+/schemas/userscripts                        /userscripts.schema.json                200
+/*                                          /error.json                             404

@@ -1,0 +1,28 @@
+{
+    "0.9.2": {
+        "releaseDate": "2021-10-03",
+        "changelog": [
+            "Add time and date",
+            "Add refreshable background images",
+            "Add 24-hour time"
+        ]
+    },
+    "1.0.0": {
+        "releaseDate": "2021-10-19",
+        "changelog": [
+            "Add the top sites integration",
+            "Add the settings menu (24-hour time, top sites toggle, background refresh, version number, feedback form)",
+            "Switch to the Unsplash API",
+            "Add photo attribution"
+        ]
+    },
+    "1.1.0": {
+        "releaseDate": "2021-11-05",
+        "changelog": [
+            "Improve top sites design",
+            "Increase top sites limit to 20 when in the center layout",
+            "Add top sites favicon caching (non-Firefox browsers)",
+            "Improve settings interface"
+        ]
+    }
+}

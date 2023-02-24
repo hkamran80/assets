@@ -1,0 +1,74 @@
+[
+    {
+        "name": "AO3 - Direct Download Links",
+        "description": "Makes the download book links direct",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/ao3_directdownload.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/ao3_directdownload.user.js"
+    },
+    {
+        "name": "AO3 - Download Buttons",
+        "description": "Adds a download button to each blurb on pages (not work pages)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/ao3_downloadbuttons.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/ao3_downloadbuttons.user.js"
+    },
+    {
+        "name": "AO3 - Keystrokes",
+        "description": "Adds next/previous page/chapter/part and kudos keystrokes (next chapter/page - right arrow/Shift + N, previous chapter/page - left arrow/Shift + P, kudos - K)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/ao3_keystrokes.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/ao3_keystrokes.user.js"
+    },
+    {
+        "name": "AO3 - Series Download Links",
+        "description": "Adds a button which opens a modal to download stories from series",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/ao3_seriesdownload.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/ao3_seriesdownload.user.js"
+    },
+    {
+        "name": "Canvas LMS - Automatic Next Clicker",
+        "description": "Clicks the next button on module pages (two second delay)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/canvas_autonext.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/canvas_autonext.user.js"
+    },
+    {
+        "name": "Canvas LMS - Keystrokes",
+        "description": "Adds next page keystrokes when the next button is available (typically on modules) (next page - right arrow/Shift + N, previous page - left arrow/Shift + P)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/canvas_lms.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/canvas_lms.user.js"
+    },
+    {
+        "name": "FanFiction.Net - Keystrokes",
+        "description": "Adds next chapter, previous chapter, and follow/favorite keystrokes (next chapter - right arrow/Shift + N, previous chapter - left arrow/Shift + P, follow/favorite - Shift + L)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/fanfiction.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/fanfiction.user.js"
+    },
+    {
+        "name": "FanFiction.Net - Mobile Redirect",
+        "description": "Redirects users from the mobile version of FanFiction.Net to the desktop version",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/fanfictionmobileredirect.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/fanfictionmobileredirect.user.js"
+    },
+    {
+        "name": "Gameinc.io - Automatic Money Generator",
+        "description": "Continously generates money for the player",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/gameinc_automoney.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/gameinc_automoney.user.js"
+    },
+    {
+        "name": "Merriam-Webster - Keystrokes",
+        "description": "Adds a search focus keystroke (the slash key, /)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/merriamwebster_keystrokes.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/merriamwebster_keystrokes.user.js"
+    },
+    {
+        "name": "qBraid qBook - Keystrokes",
+        "description": "Adds next and previous section keystrokes (next section - right arrow, previous section - left arrow)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/qbraid_qbook.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/qbraid_qbook.user.js"
+    },
+    {
+        "name": "XKCD - Keystrokes",
+        "description": "Adds next, previous, and random comic keystrokes (next comic - Shift + N, previous comic - Shift + P, random comic - Shift + R)",
+        "installUrl": "https://github.com/hkamran80/userscripts/raw/main/xkcd.user.js",
+        "sourceUrl": "https://github.com/hkamran80/userscripts/blob/main/xkcd.user.js"
+    }
+]

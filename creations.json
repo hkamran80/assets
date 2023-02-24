@@ -1,0 +1,143 @@
+[
+    {
+        "name": "SupportDocs",
+        "repository": "https://github.com/aheze/SupportDocs",
+        "site": "",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [
+            {
+                "name": "Andrew Zheng",
+                "role": "Creator",
+                "link": {
+                    "url": "https://aheze.medium.com",
+                    "title": "Andrew Zheng on Medium"
+                }
+            },
+            {
+                "name": "H. Kamran",
+                "role": "Contributor (automatic generation code, documentation, dark mode)",
+                "link": {
+                    "url": "https://hkamran.com",
+                    "title": "H. Kamran's website"
+                }
+            }
+        ],
+        "description": "Generate help centers for your iOS apps, with Markdown! All you need to do is write your documents on GitHub, and install the library in your app. SupportDocs' custom GitHub Action and GitHub Pages will take care of the rest."
+    },
+    {
+        "name": "Grade Calculators",
+        "repository": "",
+        "site": "/programs",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [],
+        "description": "The grade calculators are simple tools to calculate what you need to get on a final in order to get a particular grade or to see what your grade will look like after you've taken the final."
+    },
+    {
+        "name": "Schedules (web and mobile)",
+        "repository": "https://github.com/hkamran80/schedules",
+        "site": "https://go.unisontech.org/sch",
+        "status": "Completed",
+        "featured": true,
+        "contributors": [],
+        "description": "An app for all bell schedules. It tells you exactly how much time is remaining in a period, as well as the next period and its starting time."
+    },
+    {
+        "name": "QuickOCR",
+        "repository": "https://github.com/aheze/QuickOCR",
+        "site": "",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [
+            {
+                "name": "Andrew Zheng",
+                "role": "Creator",
+                "link": {
+                    "url": "https://aheze.medium.com",
+                    "title": "Andrew Zheng on Medium"
+                }
+            },
+            {
+                "name": "H. Kamran",
+                "role": "Contributor",
+                "link": {
+                    "url": "https://hkamran.com",
+                    "title": "H. Kamran's website"
+                }
+            }
+        ],
+        "description": "Drag-and-drop to find text. Powered by Apple's Vision framework."
+    },
+    {
+        "name": "Nebula New Tab",
+        "repository": "https://github.com/hkamran80/nebula-new-tab",
+        "site": "/creations/nebula-new-tab",
+        "status": "Completed",
+        "featured": true,
+        "contributors": [],
+        "description": "A clean and simple new tab page. Currently available in the Firefox and Microsoft Edge add-on stores."
+    },
+    {
+        "name": "Reactor",
+        "repository": "",
+        "site": "/creations/reactor",
+        "status": "Completed",
+        "featured": true,
+        "contributors": [],
+        "description": "Automatically add reactions to users' messages"
+    },
+    {
+        "name": "Squirrel",
+        "repository": "https://github.com/aheze/Squirrel",
+        "site": "",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [
+            {
+                "name": "Andrew Zheng",
+                "role": "Creator",
+                "link": {
+                    "url": "https://aheze.medium.com",
+                    "title": "Andrew Zheng on Medium"
+                }
+            },
+            {
+                "name": "H. Kamran",
+                "role": "Contributor",
+                "link": {
+                    "url": "https://hkamran.com",
+                    "title": "H. Kamran's website"
+                }
+            }
+        ],
+        "description": "Enable scrolling in the Xcode Simulator! — created by Andrew Zheng"
+    },
+    {
+        "name": "Playlist Duplicator",
+        "repository": "https://github.com/hkamran80/playlist_duplicator",
+        "site": "",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [],
+        "description": "A simple way to duplicate the contents of one Spotify playlist into another."
+    },
+    {
+        "name": "Brainteasers (client)",
+        "repository": "https://github.com/hkamran80/brainteasers",
+        "site": "https://brainteasers.hkamran.com",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [],
+        "description": "A trivia game powered by Next.js, Socket.io, and The Trivia API"
+    },
+    {
+        "name": "Brainteasers (server)",
+        "repository": "https://github.com/hkamran80/brainteasers-server",
+        "site": "https://brainteasers.hkamran.com",
+        "status": "Completed",
+        "featured": false,
+        "contributors": [],
+        "description": "The server for Brainteasers, a trivia game powered by Socket.io and The Trivia API"
+    }
+]
