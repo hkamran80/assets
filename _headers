@@ -4,7 +4,8 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
-/hkamran/*
+/graphics/*
+    Content-Type: image/png
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
@@ -21,8 +22,14 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
-/graphics/*
-    Content-Type: image/png
+/creations
+    Content-Type: application/json
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
+/userscripts
+    Content-Type: application/json
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
