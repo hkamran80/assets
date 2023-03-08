@@ -6,7 +6,9 @@
 /changelog/nebula-new-tab                   /nebula-changelog.json                      200
 /schema/userscripts                         /userscripts.schema.json                    200
 /graphics/article/*                         /article-graphics/:splat.png                200
+/images/showcase/*                          /showcase-logos/:splat.png                  200
 /images/nebula-new-tab/avif/*               /nebula-new-tab-screenshots/:splat.avif     200
 /images/nebula-new-tab/webp/*               /nebula-new-tab-screenshots/:splat.webp     200
 /images/nebula-new-tab/png/*                /nebula-new-tab-screenshots/:splat.png      200
+/                                           https://hkamran.com                         301
 /*                                          /error.json                                 404
