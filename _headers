@@ -10,6 +10,24 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
+/images/nebula-new-tab/avif/*
+    Content-Type: image/avif
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
+/images/nebula-new-tab/webp/*
+    Content-Type: image/webp
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
+/images/nebula-new-tab/png/*
+    Content-Type: image/png
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
 /changelog/*
     Content-Type: application/json
     X-Frame-Options: DENY
