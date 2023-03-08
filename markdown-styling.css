@@ -1,1 +1,43 @@
-body{max-width:42rem!important;margin-left:auto!important;margin-right:auto!important;padding-top:1.5rem!important;padding-bottom:1.5rem!important}p{text-align:justify}table{display:table!important;width:auto!important;margin-left:auto!important;margin-right:auto!important;border-collapse:collapse!important}table td,table th{border-left:none!important;border-right:none!important;border-top:1px solid #000!important;border-bottom:1px solid #000!important}figure{margin:.5em auto}figure>img{display:block;margin:0 auto;page-break-inside:avoid}figcaption{display:block;text-align:center;margin-top:.5em}
+body {
+    max-width: 42rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    display: table !important;
+    width: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-collapse: collapse !important;
+}
+
+table td,
+table th {
+    border-left: none !important;
+    border-right: none !important;
+    border-top: 1px solid #000 !important;
+    border-bottom: 1px solid #000 !important;
+}
+
+figure {
+    margin: 0.5em auto;
+}
+
+figure > img {
+    display: block;
+    margin: 0 auto;
+    page-break-inside: avoid;
+}
+
+figcaption {
+    display: block;
+    text-align: center;
+    margin-top: 0.5em;
+}
