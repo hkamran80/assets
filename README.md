@@ -19,3 +19,8 @@ The [`_headers` file](_headers) has headers for each route (with wildcard suffix
 specifically `Access-Control-Access-Origin`, `X-XSS-Protection`, `X-Frame-Options`,
 and `Content-Type`. `Content-Type` is the only one that changes depending on the
 route.
+
+## License
+
+Unless otherwise specified, all content in this repository is subject to
+[my license](https://hkamran.com/legal/license).
