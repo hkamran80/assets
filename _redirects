@@ -11,4 +11,4 @@
 /images/nebula-new-tab/webp/*               /nebula-new-tab-screenshots/:splat.webp     200
 /images/nebula-new-tab/png/*                /nebula-new-tab-screenshots/:splat.png      200
 /                                           https://hkamran.com                         301
-/*                                          https://hkamran.com                         404
+/*                                          https://hkamran.com                         302
