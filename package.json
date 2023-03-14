@@ -1,6 +1,9 @@
 {
-    "name": "hk-raw",
+    "name": "@hkamran/assets-site",
     "version": "0.0.0",
     "type": "module",
-    "private": true
+    "private": true,
+    "dependencies": {
+        "@hkamran/utility-assets": "^1.0.0"
+    }
 }
