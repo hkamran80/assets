@@ -34,6 +34,12 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
+/images/profile/*
+    Content-Type: image/png
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
 /changelog/*
     Content-Type: application/json
     X-Frame-Options: DENY
