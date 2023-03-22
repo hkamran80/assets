@@ -10,12 +10,6 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
-/images/*
-    Content-Type: image/png
-    X-Frame-Options: DENY
-    X-XSS-Protection: 1; mode=block
-    Access-Control-Allow-Origin: *
-
 /images/showcase/*
     Content-Type: image/png
     X-Frame-Options: DENY
@@ -41,6 +35,12 @@
     Access-Control-Allow-Origin: *
 
 /images/profile/*
+    Content-Type: image/png
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
+/images/*
     Content-Type: image/png
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
