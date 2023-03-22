@@ -4,6 +4,7 @@
 /userscripts                                /userscripts.json                           200
 /sitemap/hkamran                            /hkamran-sitemap.xml                        200
 /changelog/nebula-new-tab                   /nebula-changelog.json                      200
+/changelog/ramadan-taskminder               /ramadan-taskminder-changelog.json          200
 /schema/userscripts                         /userscripts.schema.json                    200
 /graphics/article/*                         /article-graphics/:splat.png                200
 /images/showcase/*                          /showcase-logos/:splat.png                  200
