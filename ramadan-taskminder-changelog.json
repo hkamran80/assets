@@ -11,5 +11,19 @@
             "Update the inactive tab bar item dark colour",
             "Upgrade the storage system"
         ]
+    },
+    "1.0.0": {
+        "releaseDate": "2023-04-10",
+        "changelog": [
+            "Fix the double-tap bug with the ayah input",
+            "Add prayer tracking",
+            "Add Qur'an statistics",
+            "Add custom tasks support",
+            "Automatically sort tasks",
+            "Allow deleting Qur'an entries",
+            "Add about page",
+            "Switch navigation method for the tab bar",
+            "Add a back button to nested pages"
+        ]
     }
 }
