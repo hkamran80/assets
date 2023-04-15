@@ -148,5 +148,14 @@
         "featured": true,
         "contributors": [],
         "description": "Ramadan Taskminder allows you to stay on top of your tasks for Ramadan. Keep track of your Qur'an reading and other key tasks."
+    },
+    {
+        "name": "2fa.directory",
+        "repository": "https://github.com/2factorauth/twofactorauth",
+        "site": "https://2fa.directory",
+        "status": "Completed",
+        "featured": true,
+        "contributors": [],
+        "description": "A list of popular sites and whether they support two-factor authenticaton"
     }
 ]
