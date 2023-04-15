@@ -156,6 +156,6 @@
         "status": "Completed",
         "featured": true,
         "contributors": [],
-        "description": "A list of popular sites and whether they support two-factor authenticaton"
+        "description": "A list of popular sites and whether or not they support two-factor authenticaton"
     }
 ]
