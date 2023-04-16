@@ -35,7 +35,7 @@
         "description": "The grade calculators are simple tools to calculate what you need to get on a final in order to get a particular grade or to see what your grade will look like after you've taken the final."
     },
     {
-        "name": "Schedules (web and mobile)",
+        "name": "Schedules",
         "repository": "https://github.com/hkamran80/schedules",
         "site": "https://go.unisontech.org/sch",
         "status": "Completed",
