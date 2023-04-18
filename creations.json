@@ -94,5 +94,13 @@
         "status": "Completed",
         "featured": true,
         "description": "A list of popular sites and whether or not they support two-factor authenticaton"
+    },
+    {
+        "name": "HTTP Monitor Bot",
+        "repository": "https://github.com/hkamran80/http-monitor-worker",
+        "site": "",
+        "status": "In Progress",
+        "featured": false,
+        "description": "A Cloudflare Worker designed to monitor an HTTP service, then update cState with the status"
     }
 ]
