@@ -25,5 +25,9 @@
             "Switch navigation method for the tab bar",
             "Add a back button to nested pages"
         ]
+    },
+    "1.1.0": {
+        "releaseDate": "2023-04-19",
+        "changelog": ["Add the Eid Takbeer"]
     }
 }
