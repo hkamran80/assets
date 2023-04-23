@@ -40,6 +40,12 @@
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
 
+/images/article/*
+    Content-Type: image/png
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
 /images/*
     Content-Type: image/png
     X-Frame-Options: DENY
