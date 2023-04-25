@@ -3,7 +3,6 @@
         "name": "SupportDocs",
         "repository": "https://github.com/aheze/SupportDocs",
         "site": "",
-        "status": "Completed",
         "featured": false,
         "description": "Generate help centers for your iOS apps, with Markdown! All you need to do is write your documents on GitHub, and install the library in your app. SupportDocs' custom GitHub Action and GitHub Pages will take care of the rest."
     },
@@ -11,7 +10,6 @@
         "name": "Grade Calculators",
         "repository": "",
         "site": "/programs",
-        "status": "Completed",
         "featured": false,
         "description": "The grade calculators are simple tools to calculate what you need to get on a final in order to get a particular grade or to see what your grade will look like after you've taken the final."
     },
@@ -19,7 +17,6 @@
         "name": "Schedules",
         "repository": "https://github.com/hkamran80/schedules",
         "site": "https://go.unisontech.org/sch",
-        "status": "Completed",
         "featured": true,
         "description": "An app for all bell schedules. It tells you exactly how much time is remaining in a period, as well as the next period and its starting time."
     },
@@ -27,7 +24,6 @@
         "name": "QuickOCR",
         "repository": "https://github.com/aheze/QuickOCR",
         "site": "",
-        "status": "Completed",
         "featured": false,
         "description": "Drag-and-drop to find text. Powered by Apple's Vision framework."
     },
@@ -35,7 +31,6 @@
         "name": "Nebula New Tab",
         "repository": "https://github.com/hkamran80/nebula-new-tab",
         "site": "/creations/nebula-new-tab",
-        "status": "Completed",
         "featured": true,
         "description": "A clean and simple new tab page. Currently available in the Firefox and Microsoft Edge add-on stores."
     },
@@ -43,7 +38,6 @@
         "name": "Reactor",
         "repository": "",
         "site": "/creations/reactor",
-        "status": "Completed",
         "featured": true,
         "description": "Automatically add reactions to users' messages"
     },
@@ -51,7 +45,6 @@
         "name": "Squirrel",
         "repository": "https://github.com/aheze/Squirrel",
         "site": "",
-        "status": "Completed",
         "featured": false,
         "description": "Enable scrolling in the Xcode Simulator! — created by Andrew Zheng"
     },
@@ -59,7 +52,6 @@
         "name": "Playlist Duplicator",
         "repository": "https://github.com/hkamran80/playlist_duplicator",
         "site": "",
-        "status": "Completed",
         "featured": false,
         "description": "A simple way to duplicate the contents of one Spotify playlist into another."
     },
@@ -67,7 +59,6 @@
         "name": "Brainteasers (client)",
         "repository": "https://github.com/hkamran80/brainteasers",
         "site": "https://brainteasers.hkamran.com",
-        "status": "Completed",
         "featured": false,
         "description": "A trivia game powered by Next.js, Socket.io, and The Trivia API"
     },
@@ -75,7 +66,6 @@
         "name": "Brainteasers (server)",
         "repository": "https://github.com/hkamran80/brainteasers-server",
         "site": "https://brainteasers.hkamran.com",
-        "status": "Completed",
         "featured": false,
         "description": "The server for Brainteasers, a trivia game powered by Socket.io and The Trivia API"
     },
@@ -83,7 +73,6 @@
         "name": "Ramadan Taskminder",
         "repository": "https://github.com/hkamran80/ramadan-taskminder",
         "site": "https://13willow.com/project/ramadan-taskminder",
-        "status": "Completed",
         "featured": true,
         "description": "Ramadan Taskminder allows you to stay on top of your tasks for Ramadan. Keep track of your Qur'an reading and other key tasks."
     },
@@ -91,7 +80,6 @@
         "name": "2fa.directory",
         "repository": "https://github.com/2factorauth/twofactorauth",
         "site": "https://2fa.directory",
-        "status": "Completed",
         "featured": true,
         "description": "A list of popular sites and whether or not they support two-factor authenticaton"
     },
@@ -99,7 +87,6 @@
         "name": "HTTP Monitor Bot",
         "repository": "https://github.com/hkamran80/http-monitor-worker",
         "site": "",
-        "status": "In Progress",
         "featured": false,
         "description": "A Cloudflare Worker designed to monitor an HTTP service, then update cState with the status"
     }
