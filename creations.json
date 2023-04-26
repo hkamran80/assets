@@ -81,7 +81,7 @@
         "repository": "https://github.com/2factorauth/twofactorauth",
         "site": "https://2fa.directory",
         "featured": true,
-        "description": "A list of popular sites and whether or not they support two-factor authenticaton"
+        "description": "An open source project that aims to improve online security by providing a directory of websites and services that support two-factor authentication"
     },
     {
         "name": "HTTP Monitor Bot",
