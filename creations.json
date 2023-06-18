@@ -95,5 +95,11 @@
         "repository": "https://github.com/hkamran80/website/blob/redesign-nextjs/pages/program/testflight-cleaner.tsx",
         "site": "/program/testflight-cleaner",
         "description": "Clean your TestFlight tester CSVs and avoid dealing with those pesky errors!"
+    },
+    {
+        "name": "Midnight",
+        "site": "https://midnight.day",
+        "featured": true,
+        "description": "Alarms Done Right. Created by Andrew Zheng (CEO) and myself (CTO)."
     }
 ]
