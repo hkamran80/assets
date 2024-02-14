@@ -1,15 +1,18 @@
-lockfileVersion: 5.4
+lockfileVersion: "6.0"
 
-specifiers:
-    "@hkamran/utility-assets": ^1.0.0
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
-    "@hkamran/utility-assets": 1.0.0
+  "@hkamran/utility-assets":
+    specifier: ^1.0.0
+    version: 1.0.0
 
 packages:
-    /@hkamran/utility-assets/1.0.0:
-        resolution:
-            {
-                integrity: sha512-R5Cv/yVn8GqlOMPO51QSAg1e3PEQhKicQ7Z6c6Ix+mYjG8GTTbIlmN2fMb98xzm7U6OK0EuqXeXvj8gca7TwiA==,
-            }
-        dev: false
+  /@hkamran/utility-assets@1.0.0:
+    resolution:
+      {
+        integrity: sha512-R5Cv/yVn8GqlOMPO51QSAg1e3PEQhKicQ7Z6c6Ix+mYjG8GTTbIlmN2fMb98xzm7U6OK0EuqXeXvj8gca7TwiA==,
+      }
+    dev: false
