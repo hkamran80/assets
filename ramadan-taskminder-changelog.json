@@ -41,5 +41,12 @@
       "Remove the Eid Takbeers button",
       "Resize the app icons"
     ]
+  },
+  "1.2.1": {
+    "releaseDate": "2024-02-22",
+    "changelog": [
+        "Add support for Qur'an past readings",
+        "Fix index offset bug in Qur'an tracking"
+    ]
   }
 }
