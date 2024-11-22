@@ -1,9 +1,15 @@
 {
     "name": "@hkamran/assets-site",
+    "private": true,
     "version": "0.0.0",
     "type": "module",
-    "private": true,
     "dependencies": {
-        "@hkamran/utility-assets": "^1.0.0"
-    }
+        "@hkamran/utility-assets": "^1.0.0",
+        "feed": "^4.2.2"
+    },
+    "devDependencies": {
+        "@hkamran/prettier-config": "^1.1.1",
+        "prettier": "^3.3.3"
+    },
+    "prettier": "@hkamran/prettier-config"
 }
