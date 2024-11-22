@@ -1,62 +1,62 @@
 {
-  "0.9.0": {
-    "releaseDate": "2023-03-21",
-    "changelog": ["Add home, tasks and Qur'an views"]
-  },
-  "0.9.1": {
-    "releaseDate": "2023-03-23",
-    "changelog": [
-      "Add surah index to list",
-      "Add a translucent background to the tab bar",
-      "Update the inactive tab bar item dark colour",
-      "Upgrade the storage system"
-    ]
-  },
-  "1.0.0": {
-    "releaseDate": "2023-04-10",
-    "changelog": [
-      "Fix the double-tap bug with the ayah input",
-      "Add prayer tracking",
-      "Add Qur'an statistics",
-      "Add custom tasks support",
-      "Automatically sort tasks",
-      "Allow deleting Qur'an entries",
-      "Add about page",
-      "Switch navigation method for the tab bar",
-      "Add a back button to nested pages"
-    ]
-  },
-  "1.1.0": {
-    "releaseDate": "2023-04-19",
-    "changelog": ["Add the Eid Takbeer"]
-  },
-  "1.2.0": {
-    "releaseDate": "2024-02-08",
-    "changelog": [
-      "Rewrite the ayah calculation engine to be more accurate",
-      "Fix navigation when using the back button",
-      "Update the copyright information",
-      "Update the “no data shared” message",
-      "Convert the about page to a section in the settings page",
-      "Remove the Eid Takbeers button",
-      "Resize the app icons"
-    ]
-  },
-  "1.2.1": {
-    "releaseDate": "2024-02-22",
-    "changelog": [
-      "Add support for Qur'an past readings",
-      "Fix index offset bug in Qur'an tracking"
-    ]
-  },
-  "1.3.0": {
-    "releaseDate": "2024-04-0",
-    "changelog": [
-      "Add import and export functionality",
-      "Round tab bar",
-      "Increase tab bar opacity",
-      "Add Qiyam to the prayers",
-      "Add the Eid Takbeers button back"
-    ]
-  }
+    "0.9.0": {
+        "releaseDate": "2023-03-21",
+        "changelog": ["Add home, tasks and Qur'an views"]
+    },
+    "0.9.1": {
+        "releaseDate": "2023-03-23",
+        "changelog": [
+            "Add surah index to list",
+            "Add a translucent background to the tab bar",
+            "Update the inactive tab bar item dark colour",
+            "Upgrade the storage system"
+        ]
+    },
+    "1.0.0": {
+        "releaseDate": "2023-04-10",
+        "changelog": [
+            "Fix the double-tap bug with the ayah input",
+            "Add prayer tracking",
+            "Add Qur'an statistics",
+            "Add custom tasks support",
+            "Automatically sort tasks",
+            "Allow deleting Qur'an entries",
+            "Add about page",
+            "Switch navigation method for the tab bar",
+            "Add a back button to nested pages"
+        ]
+    },
+    "1.1.0": {
+        "releaseDate": "2023-04-19",
+        "changelog": ["Add the Eid Takbeer"]
+    },
+    "1.2.0": {
+        "releaseDate": "2024-02-08",
+        "changelog": [
+            "Rewrite the ayah calculation engine to be more accurate",
+            "Fix navigation when using the back button",
+            "Update the copyright information",
+            "Update the “no data shared” message",
+            "Convert the about page to a section in the settings page",
+            "Remove the Eid Takbeers button",
+            "Resize the app icons"
+        ]
+    },
+    "1.2.1": {
+        "releaseDate": "2024-02-22",
+        "changelog": [
+            "Add support for Qur'an past readings",
+            "Fix index offset bug in Qur'an tracking"
+        ]
+    },
+    "1.3.0": {
+        "releaseDate": "2024-04-0",
+        "changelog": [
+            "Add import and export functionality",
+            "Round tab bar",
+            "Increase tab bar opacity",
+            "Add Qiyam to the prayers",
+            "Add the Eid Takbeers button back"
+        ]
+    }
 }

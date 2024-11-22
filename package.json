@@ -3,6 +3,9 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
+    "scripts": {
+        "format": "prettier . --write"
+    },
     "dependencies": {
         "@hkamran/utility-assets": "^1.0.0",
         "feed": "^4.2.2"
