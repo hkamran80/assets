@@ -1,9 +1,7 @@
 {
     "0.9.0": {
         "releaseDate": "2023-03-21",
-        "changelog": [
-            "Add home, tasks and Qur'an views"
-        ]
+        "changelog": ["Add home, tasks and Qur'an views"]
     },
     "0.9.1": {
         "releaseDate": "2023-03-23",
@@ -30,9 +28,7 @@
     },
     "1.1.0": {
         "releaseDate": "2023-04-19",
-        "changelog": [
-            "Add the Eid Takbeer"
-        ]
+        "changelog": ["Add the Eid Takbeer"]
     },
     "1.2.0": {
         "releaseDate": "2024-02-08",
@@ -65,8 +61,6 @@
     },
     "1.3.1": {
         "releaseDate": "2025-10-15",
-        "changelog": [
-            "Update Eid Takbeer video"
-        ]
+        "changelog": ["Update Eid Takbeer video"]
     }
 }
