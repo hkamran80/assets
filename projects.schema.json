@@ -1,0 +1,61 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://assets.hkamran.com/schema/projects",
+    "title": "Projects",
+    "description": "A list of projects for embedding",
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "The name of the project"
+            },
+            "description": {
+                "type": "string",
+                "description": "A short description of the project"
+            },
+            "featured": {
+                "type": "boolean",
+                "description": "Should the project be featured"
+            },
+            "repository": {
+                "type": "string",
+                "format": "uri",
+                "description": "A link to the repository"
+            },
+            "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "A link to the project (not a repository link)"
+            },
+            "group": {
+                "enum": ["apps", "tools", "directories", "bots"]
+            },
+            "owner": {
+                "type": "object",
+                "description": "The owner of the project, if not myself",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string",
+                        "format": "uri",
+                        "description": "A link to the owner's page"
+                    }
+                },
+                "required": ["name"]
+            },
+            "role": {
+                "type": "string",
+                "description": "My role on the project"
+            }
+        },
+        "required": ["name", "description", "group"],
+        "dependentRequired": {
+            "owner": ["role"]
+        }
+    }
+}
