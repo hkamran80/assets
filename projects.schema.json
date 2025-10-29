@@ -27,7 +27,14 @@
             },
             "url": {
                 "type": "string",
-                "format": "uri",
+                "anyOf": [
+                    {
+                        "format": "uri"
+                    },
+                    {
+                        "format": "uri-reference"
+                    }
+                ],
                 "description": "A link to the project (not a repository link)"
             },
             "group": {
@@ -56,6 +63,7 @@
         "required": ["name", "description", "group"],
         "dependentRequired": {
             "owner": ["role"]
-        }
+        },
+        "additionalProperties": false
     }
 }
