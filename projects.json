@@ -47,5 +47,12 @@
         "repository": "https://github.com/hkamran80/website/blob/redesign-nextjs/pages/program/testflight-cleaner.tsx",
         "site": "/program/testflight-cleaner",
         "group": "tools"
+    },
+    {
+        "name": "Nebula New Tab",
+        "repository": "https://github.com/hkamran80/nebula-new-tab",
+        "site": "/creations/nebula-new-tab",
+        "description": "A clean and simple new tab page",
+        "group": "apps"
     }
 ]
