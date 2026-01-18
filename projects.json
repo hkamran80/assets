@@ -54,5 +54,11 @@
         "url": "/creations/nebula-new-tab",
         "description": "A clean and simple new tab page",
         "group": "apps"
+    },
+    {
+        "name": "Playlist Duplicator",
+        "repository": "https://github.com/hkamran80/playlist_duplicator",
+        "description": "A simple way to duplicate the contents of one Spotify playlist into another.",
+        "group": "tools"
     }
 ]
