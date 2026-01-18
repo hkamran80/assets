@@ -2,6 +2,7 @@
 /creations                                  /creations.json                             200
 /showcase                                   /creations.json                             200
 /projects                                   /projects.json                              200
+/bill-analyses                              /bill-analyses.json                         200
 /userscripts                                /userscripts.json                           200
 /sitemap/hkamran                            /hkamran-sitemap.xml                        200
 /changelog/nebula-new-tab                   /nebula-changelog.json                      200

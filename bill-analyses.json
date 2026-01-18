@@ -1,0 +1,45 @@
+[
+    {
+        "id": "119-s1748",
+        "bill": {
+            "congress": "119",
+            "chamber": "senate",
+            "id": "1748",
+            "title": "Kids Online Safety Act",
+            "sponsors": [
+                "Sen. Marsha Blackburn (R-TN)"
+            ],
+            "cosponsors": {
+                "listed": [
+                    "Sen. Adam Schiff (D-CA)"
+                ],
+                "other": 68
+            }
+        },
+        "summary": "This bill would require covered platforms to design their services to prevent and mitigate harm to minors, provide safeguards for minors' data, prohibit them from conducting market or product research on those under 13 (under 17 with parental consent), and provide explanations and opt-outs for algorithms that use user-specific data. Enforcement would be conducted through the Federal Trade Commission (FTC) and state attorneys general in any federal district or state court. Covered platforms include \"online platforms, video games, messaging applications, or video streaming services\" which are used or likely to be used by people under 17.",
+        "background": "This is the third Congress this bill has been introduced in, previously passing the Senate 91-3 in the 118th. Introduced after 2021 Facebook leak revealing it was aware of harmful societal effects from its platforms. Requires covered platforms to \"exercise reasonable care\" to “prevent and mitigate” a list of seven broad and vague \"duty of care\" provisions. No government entity can enforce the bill based on any speech protected by the First Amendment, but is primarily enforced by the FTC.",
+        "organizations": {
+            "support": [
+                "Apple",
+                "Heritage Foundation",
+                "Common Sense Media",
+                "X",
+                "Microsoft",
+                "Snap",
+                "American Psychological Association",
+                "American Academy of Pediatrics",
+                "Unilever"
+            ],
+            "oppose": [
+                "American Civil Liberties Union",
+                "Fight for the Future",
+                "Electronic Frontier Foundation",
+                "National Coalition Against Censorship"
+            ]
+        },
+        "recommendation": {
+            "action": "oppose",
+            "reason": "This bill is too vague about \"harmful content\" and could be used to target LGBTQIA+ people, censor speech protected under the First Amendment, and implement age verification systems."
+        }
+    }
+]
