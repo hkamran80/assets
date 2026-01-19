@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@hkamran/utility-assets':
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^1.1.3
+        version: 1.1.3
       feed:
         specifier: ^4.2.2
         version: 4.2.2
@@ -33,8 +33,8 @@ packages:
   '@hkamran/prettier-config@1.1.1':
     resolution: {integrity: sha512-VLAWG2W19Wonwl+uEz1qNgQINxCd5igOH1gUb+OsW46WEZlDOcFapTQyI/Mi/mB4NvTz2hd2hxUiAPAztH/xuA==}
 
-  '@hkamran/utility-assets@1.1.2':
-    resolution: {integrity: sha512-b/lOmofSObJAi6ZokFqo5Vb3Nht+7R5NtB3oHxaUELPLYVYBgs4wTb/nEIsbqs1CYt8hBYJ4MWIwwRtp3K4fXQ==}
+  '@hkamran/utility-assets@1.1.3':
+    resolution: {integrity: sha512-CzMA3aUMrGFjVsaImwBQataNVHDLCEbnZmSufxZMw1GXI2mAiHr6sWAyZjn7Qv8sVetjhLfAEQLePtW7jU8yqQ==}
 
   ajv-cli@5.0.0:
     resolution: {integrity: sha512-LY4m6dUv44HTyhV+u2z5uX4EhPYTM38Iv1jdgDJJJCyOOuqB8KtZEGjPZ2T+sh5ZIJrXUfgErYx/j3gLd3+PlQ==}
@@ -158,7 +158,7 @@ snapshots:
 
   '@hkamran/prettier-config@1.1.1': {}
 
-  '@hkamran/utility-assets@1.1.2': {}
+  '@hkamran/utility-assets@1.1.3': {}
 
   ajv-cli@5.0.0:
     dependencies:
