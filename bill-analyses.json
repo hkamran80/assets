@@ -4,7 +4,8 @@
         "bill": {
             "congress": "119",
             "chamber": "senate",
-            "id": "1748",
+            "type": "bill",
+            "number": "1748",
             "title": "Kids Online Safety Act",
             "sponsors": [
                 "Sen. Marsha Blackburn (R-TN)"
