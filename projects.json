@@ -45,13 +45,13 @@
         "name": "TestFlight Cleaner",
         "description": "Clean your TestFlight tester CSVs and avoid dealing with those pesky errors!",
         "repository": "https://github.com/hkamran80/website/blob/redesign-nextjs/pages/program/testflight-cleaner.tsx",
-        "url": "/program/testflight-cleaner",
+        "url": "/utilities/testflight-cleaner",
         "group": "tools"
     },
     {
         "name": "Nebula New Tab",
         "repository": "https://github.com/hkamran80/nebula-new-tab",
-        "url": "/creations/nebula-new-tab",
+        "url": "/projects/nebula-new-tab",
         "description": "A clean and simple new tab page",
         "group": "apps"
     },
