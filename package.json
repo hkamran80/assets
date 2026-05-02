@@ -8,8 +8,7 @@
         "validate:projects": "ajv validate --spec draft2020 -c ajv-formats -s projects.schema.json -d projects.json"
     },
     "dependencies": {
-        "@hkamran/utility-assets": "^1.1.4",
-        "feed": "^4.2.2"
+        "@hkamran/utility-assets": "^1.1.4"
     },
     "devDependencies": {
         "@hkamran/prettier-config": "^1.1.1",
