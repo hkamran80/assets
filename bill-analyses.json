@@ -7,13 +7,9 @@
             "type": "bill",
             "number": "1748",
             "title": "Kids Online Safety Act",
-            "sponsors": [
-                "Sen. Marsha Blackburn (R-TN)"
-            ],
+            "sponsors": ["Sen. Marsha Blackburn (R-TN)"],
             "cosponsors": {
-                "listed": [
-                    "Sen. Adam Schiff (D-CA)"
-                ],
+                "listed": ["Sen. Adam Schiff (D-CA)"],
                 "other": 68
             }
         },
@@ -52,9 +48,7 @@
             "type": "bill",
             "number": "3543",
             "title": "College for All Act of 2025",
-            "sponsors": [
-                "Rep. Pramila Jayapal (D-WA-7)"
-            ],
+            "sponsors": ["Rep. Pramila Jayapal (D-WA-7)"],
             "cosponsors": {
                 "listed": [
                     "Rep. Mark DeSaulnier (D-CA-10)",
@@ -88,5 +82,62 @@
             "reason": "College and university should be free, especially for the current 43 million Americans who have student loan debt and the future generations who will benefit from the increased opportunities."
         },
         "published": "2026-02-18T16:22:00-08:00"
+    },
+    {
+        "id": "119-hr3153",
+        "bill": {
+            "congress": "119",
+            "chamber": "house",
+            "type": "bill",
+            "number": "3153",
+            "title": "Understanding the True Cost of College Act of 2025",
+            "sponsors": ["Rep. Young Kim (R-CA-40)"],
+            "cosponsors": {
+                "listed": [
+                    "Rep. Raja Krishnamoorthi (D-IL-8)*",
+                    "Rep. Chris Pappas (D-NH-1)",
+                    "Rep. Eugene Simon Vindman (D-VA-7)"
+                ],
+                "other": 0
+            }
+        },
+        "summary": "This bill would require the Department of Education to create standard terminology and a standardized financial aid offer form with input from many stakeholders, including students. The form must contain estimated cost of attendance information, such as direct costs (e.g. tuition and fees, and housing and food when participating in a meal plan or similar), indirect costs (e.g. off-campus housing and food, transportation, and books); the covered academic period; the enrollment status; and whether tuition and fees are estimated or set. It must also include the aggregate amount of grants and scholarships that the student does not have to repay from a variety of sources, the net price, any recommended loans clearly marked as such with specified information, and additional information proscribed by the Secretary. All institutions of higher education receiving federal funds must use the form starting with the first award year after the Secretary finalizes the terminology and form.",
+        "background": "This is the second Congress this bill has been introduced by Sen. Chuck Grassley (R-IA) and Rep. Young Kim. The Senate version, S. 1558, was gutted during markup in H.E.L.P. by chairman Sen. Bill Cassidy (R-LA) by removing the requirement to use a standard form. This bill is a better version of H.R. 6502 that has more organizational support.",
+        "organizations": {
+            "support": [
+                "American Federation of Teachers",
+                "Center for American Progress",
+                "Consumer Action",
+                "The Education Trust",
+                "The Institute for College Access & Success (TICAS)",
+                "The Institute for Hig her Education Policy (IHEP)",
+                "New America Higher Education Program",
+                "Ohio Student Association",
+                "Student Senate for California Community Colleges",
+                "Young Invincibles",
+                "Third Way",
+                "uAspire",
+                "UnidosUS",
+                "California Community Colleges Chancellor's Office",
+                "Consumer Reports",
+                "Foothill-De Anza Community College District",
+                "Los Angeles Area Chamber of Commerce",
+                "NAACP",
+                "Partners for College Affordability and Public Trust",
+                "PHENOM (Public Higher Education Network of Massachusetts)",
+                "Scholarship America",
+                "U.S. Chamber of Commerce",
+                "U.S. Public Interest Research Group (USPIRG)",
+                "University of California Student Association",
+                "Woodstock Institute",
+                "Yes We Must Coalition"
+            ],
+            "oppose": []
+        },
+        "recommendation": {
+            "action": "support",
+            "reason": "Financial aid forms should be easier to understand and standardized to enable students can truly compare the costs of college and make the best informed decision."
+        },
+        "published": "2026-04-16T16:56:00-07:00"
     }
 ]
