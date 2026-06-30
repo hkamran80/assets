@@ -139,5 +139,106 @@
             "reason": "Financial aid forms should be easier to understand and standardized to enable students can truly compare the costs of college and make the best informed decision."
         },
         "published": "2026-04-16T16:56:00-07:00"
+    },
+    {
+        "id": "119-hr6606",
+        "bill": {
+            "congress": "119",
+            "chamber": "house",
+            "type": "bill",
+            "number": "6606",
+            "title": "Opportunities for Success Act of 2025",
+            "sponsors": ["Rep. Suzanne Bonamici (D-OR-1)"],
+            "cosponsors": {
+                "listed": [
+                    "Rep. Alma S. Adams (D-NC-12)*",
+                    "Rep. Angie Craig (D-MN-2)"
+                ],
+                "other": 0
+            }
+        },
+        "summary": "This bill would reauthorize and expand the Federal Work-Study (FWS) program by increasing funding; prioritizing work-based learning; updating the allocation formula based on Pell Grant enrollment and student need; requires dedicating specified amounts to students with exceptional need, work-based learning, and community service; prevents using earned funds less than $2,500 for cost of attendance; and inform eligible students of SNAP benefits. It would also create a pilot grant program to build work-based learning positions; surveys for students with work-study, employers of students, and each institution that participates in FWS that are collected in a portal; a report to Congress every four years on the program and recommendations; and would require the GAO to conduct a study.",
+        "background": "First introduced in 2019 and included in the 115th Congress’ Aim Higher Act, this bill has not received widespread organizational support. This bill would support the 6,948 students awarded work-study at UC San Diego in the 2022-23 academic year and increase the $21.5 million in FWS funds the University of California received for the year as of October 2025.",
+        "organizations": {
+            "support": ["Young Invincibles"],
+            "oppose": []
+        },
+        "recommendation": {
+            "action": "support",
+            "reason": "Reauthorizing and expanding the Federal Work-Study program would allow it to support more than the existing 600,000 students at over 3,400 campuses across the country."
+        },
+        "published": "2026-05-06T14:09:00-07:00"
+    },
+    {
+        "id": "119-hr7810",
+        "bill": {
+            "congress": "119",
+            "chamber": "house",
+            "type": "bill",
+            "number": "7810",
+            "title": "Lowering Student Loans Act",
+            "sponsors": ["Rep. Mike Thompson (D-CA-4)"],
+            "cosponsors": {
+                "listed": [
+                    "Del. James C. Moylan (R-GU-At Large)*",
+                    "Del. Eleanor Holmes Norton (D-DC-At Large)"
+                ],
+                "other": 0
+            }
+        },
+        "summary": "This bill would set the interest rates of all new and existing federal direct student loans to 2% on the unpaid principal balance. The bill would only apply to existing loans with an interest rate above 2%. A notice would be sent to borrowers with existing loans with the opportunity to opt-out within 90 days of receiving the notice. Borrowers with Federal Family Education Loan (FFEL) program loans would have the option to consolidate into the Direct Loan program to access the 2% rate. The Secretary of Education would be required to notify borrowers and loan servicers of the change and establish a complaint resolution process to address any errors or delays.",
+        "background": "Existing law currently sets the fixed interest rates of federal direct loans annually through a formula that involves the high yield of 10-year Treasury notes at auction, an add-on percentage that varies depending on loan type, and whether the student is an undergraduate or graduate. Loans first disbursed between July 1, 2025 and July 1, 2026 carry interest rates between 6.39% and 8.94%. The average UC undergraduate who takes out loans has $17,200 of debt at graduation. In the 2024-25 academic year, 51,947 UC undergraduates (21.9%) had loans from the federal government with a total of $609,009,190 paid out.",
+        "organizations": {
+            "support": [
+                "American Youth Association",
+                "National Association for College Admission Counseling (NACAC)",
+                "National Association of Secondary School Principals (NASSP)",
+                "National Association of Student Financial Aid Administrators (NASFAA)",
+                "National Education Association",
+                "Young Invincibles"
+            ],
+            "oppose": []
+        },
+        "recommendation": {
+            "action": "support",
+            "reason": "Reducing the interest rate of student loans helps borrowers reduce long-term costs, pay down their principal faster, improve their financial stability, and potentially improve their credit."
+        },
+        "published": "2026-04-16T17:45:00-07:00"
+    },
+    {
+        "id": "119-hr7298",
+        "bill": {
+            "congress": "119",
+            "chamber": "house",
+            "type": "bill",
+            "number": "7298",
+            "title": "Connecting Communities Through Transit Planning Act of 2026",
+            "sponsors": ["Rep. Lateefah Simon (D-CA-12)"],
+            "cosponsors": {
+                "listed": [
+                    "Rep. Sara Jacobs (D-CA-51)*",
+                    "Rep. LaMonica McIver (D-NJ-10)",
+                    "Rep. Mike Quigley (D-IL-5)"
+                ],
+                "other": 0
+            }
+        },
+        "summary": "This bill would make the Pilot Program for Transit-Oriented Development Planning permanent and convert it into a grant program. It would authorize $75 million per year for FY 2027–2031. It would clarify that TOD planning projects within new and existing fixed guideway systems, including bus rapid transit, qualify for funding. It would expand eligible activities to include predevelopment work, such as utility coordination, site evaluation, design, and outreach.",
+        "background": "California transit agencies and metropolitan planning organizations have successfully used this pilot program to advance new housing projects near high-frequency rail and bus lines, improving access to transit while helping address the state’s housing shortage. For example, in the East Bay, construction is underway on a 97-unit apartment project for lower-income seniors next to BART's Lake Merritt station in Oakland’s Chinatown neighborhood, which was backed by a TOD planning grant to attract a private nonprofit developer and a mix of private and public funding sources for this project.",
+        "organizations": {
+            "support": [
+                "California Transit Association",
+                "East Bay Housing Organizations",
+                "the East Bay Asian Local Development Corporation",
+                "Transform",
+                "BART"
+            ],
+            "oppose": []
+        },
+        "recommendation": {
+            "action": "support",
+            "reason": "Expanding TOD in the U.S., particularly in California, is critical for expanding housing supply and expanding transit use."
+        },
+        "published": "2026-05-08T12:49:00-07:00"
     }
 ]
